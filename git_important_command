@@ -1,0 +1,9 @@
+       git init
+ 1048  git remote add origin https://github.com/krishmithlesh/Python_from_A_to_Z
+ 1049  git -v
+ 1050  git remote -v
+ 1051  git add .
+ 1052  git commit -m "Jupyter tips and trick"
+ 1053  git push origin master
+ 1054  git push origin master --force
+
